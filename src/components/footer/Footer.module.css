@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  background-color: #1b1f1c9c;
+  
+  /* position: absolute;
+  bottom: 0;
+  */
+}
+.logo img {
+  width: 15%;
+}
+.text {
+  color: white;
+}
